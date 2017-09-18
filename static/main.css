@@ -1,0 +1,18 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanssc.css);
+
+@font-face {
+  font-family: myfont; 
+  /*src: local("YaHei Consolas Hybrid");*/
+  src: local("MicroSoft YaHei");
+  unicode-range: U+4E00-U+9FA5;
+}
+@font-face {
+  font-family: myfont;
+  src: local("Georgia"), local("Palatino"), local("serif");
+  unicode-range: U+0-U+4DFF, U+9FA5-U+10FFFF;
+}
+body{
+    font-family: 'Noto Sans SC', sans-serif;
+    /*font-family: myfont !important;*/
+
+}
