@@ -1,1 +1,1 @@
-# blogfiles
+> please visat `/page`
