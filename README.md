@@ -1,3 +1,2 @@
-> 请访问 `/page` 页面
-> 
-> Please visit `/page`
+> 请访问 [/page](吃点药.com/page) 页面
+
