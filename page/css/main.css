@@ -1,0 +1,53 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanssc.css);
+body {
+  font-family: 'Noto Sans SC', sans-serif !important;
+}
+
+#headtext {
+	margin-top: -10px;
+	font-size: 10px;
+	color: rgba(0, 0, 0, 0.4);
+}
+
+.small {
+	margin-top: -10px;
+	font-size: 10px;
+}
+
+a {
+  /*color: ;*/
+}
+a:visited {
+  color: blue;
+
+}
+
+li {
+	list-style-type: square;
+  line-height: 25px;
+}
+
+body {
+  /*background-color: #718FAB*/
+  background-color: #FAFAFA
+
+}
+
+@media screen and (min-width: 767px) {
+    body {
+
+
+    }
+}
+
+@media screen and (max-width: 767px) {
+    body {
+
+         /*background-color: lightgreen;*/
+    }
+}
+
+.disqus-div {
+  width: 50%;
+  margin: auto;
+}
