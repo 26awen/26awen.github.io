@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="favicon.gif" type="image/gif">
     </head>
 </html>
 
