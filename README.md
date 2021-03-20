@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="shortcut icon" href="favicon.gif" type="image/gif">
+        <title>💊💊💊</title>
     </head>
 </html>
 
